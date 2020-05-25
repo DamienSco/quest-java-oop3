@@ -23,7 +23,7 @@ public class Penguin extends Bird implements Swim {
     }
 
     /**
-     * dives, must be on ground
+     * Fly, must be on ground
      */
     @Override
     public void dive() {
